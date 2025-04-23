@@ -1,9 +1,4 @@
 {
-    "cSpell.ignoreWords": [
-        "textbox",
-        "viewports"
-    ],
-    "cSpell.words": [
-        "msedge"
-    ]
+  "cSpell.ignoreWords": ["Keycloak", "textbox", "viewports"],
+  "cSpell.words": ["msedge"]
 }

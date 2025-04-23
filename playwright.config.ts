@@ -19,13 +19,13 @@ const config: PlaywrightTestConfig = {
   /**
    * Directory containing the test files.
    */
-  testDir: './src/tests',
+  testDir: './tests',
 
   /**
    * Glob patterns or regular expressions matching test files.
    * Updated for TypeScript files (.spec.ts).
    */
-  testMatch: ['**.spec.ts'],
+  testMatch: ['**/*.spec.ts'],
 
   /**
    * Whether to run tests in parallel. Recommended to keep true.
